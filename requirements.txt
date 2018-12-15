@@ -1,0 +1,16 @@
+jupyterlab # To prototype the code
+
+pandas # To work with dataframes
+sodapy # To connect with Socrata
+
+#BeautifulSoup4 # To parse pages
+
+#requests # To make http requests
+#requests-cache # To create requests cache (also installs sqlite)
+
+# Visualizations
+matplotlib # To print graphs
+#seaborn # To make graphs beautiful
+#wordcloud # Plot word cloud
+
+#pyyaml # To create configs
